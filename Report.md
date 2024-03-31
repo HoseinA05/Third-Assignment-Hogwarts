@@ -5,7 +5,12 @@ Hogwarts School Management System
 ## Description
 
 Manage Hogwarts School, with Different 
-management mechanisms and other features
+management mechanisms and other features\
+\
+Some of the features:
+* Admins controlling all the data over students, Teachers and Courses
+* Students are able to review the teachers and score them. participate in courses, view their grades and the details about it
+* Teachers are able to take a course, score their students and view their own average Ratings.
 
 
 ## Getting Started
