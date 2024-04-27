@@ -1,19 +1,14 @@
 public class Hogwarts {
 
-    // TODO: Define Attributes
-
-
-
-    // TODO: Define Functionalities
     public void viewAllTeachers() {
-        //TODO
+        Assistant.showTeachers();
     }
 
     public void viewAllStudents() {
-        //TODO
+        Assistant.showStudents();
     }
 
     public void viewAllCourses() {
-        //TODO
+        Assistant.showCourses();
     }
 }
